@@ -36,7 +36,7 @@
     "exceljs": "^4.4.0",
     "file-saver": "^2.0.5",
     "jszip": "^3.10.1",
-    "lucide-vue-next": "^0.441.0",
+    "lucide-vue-next": "^0.545.0",
     "mime": "^4.0.4",
     "nuxt": "^3.12.3",
     "p-queue": "^8.0.1",
